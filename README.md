@@ -1,1 +1,0 @@
-# gow_2024_babylonjs
